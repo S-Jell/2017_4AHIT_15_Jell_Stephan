@@ -1,0 +1,6 @@
+H:\HTL\4AHIT\SEW\FactoryPattern\AbstractFactoryComputer\AbstractFactoryComputer\bin\Debug\AbstractFactoryComputer.exe.config
+H:\HTL\4AHIT\SEW\FactoryPattern\AbstractFactoryComputer\AbstractFactoryComputer\bin\Debug\AbstractFactoryComputer.exe
+H:\HTL\4AHIT\SEW\FactoryPattern\AbstractFactoryComputer\AbstractFactoryComputer\bin\Debug\AbstractFactoryComputer.pdb
+H:\HTL\4AHIT\SEW\FactoryPattern\AbstractFactoryComputer\AbstractFactoryComputer\obj\Debug\AbstractFactoryComputer.csprojResolveAssemblyReference.cache
+H:\HTL\4AHIT\SEW\FactoryPattern\AbstractFactoryComputer\AbstractFactoryComputer\obj\Debug\AbstractFactoryComputer.exe
+H:\HTL\4AHIT\SEW\FactoryPattern\AbstractFactoryComputer\AbstractFactoryComputer\obj\Debug\AbstractFactoryComputer.pdb
