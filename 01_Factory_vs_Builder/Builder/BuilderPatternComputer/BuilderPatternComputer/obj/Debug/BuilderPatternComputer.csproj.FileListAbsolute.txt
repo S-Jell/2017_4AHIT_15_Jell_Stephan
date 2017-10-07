@@ -1,0 +1,6 @@
+H:\HTL\4AHIT\SEW\BuilderPattern\BuilderPatternComputer\BuilderPatternComputer\obj\Debug\BuilderPatternComputer.csprojResolveAssemblyReference.cache
+H:\HTL\4AHIT\SEW\BuilderPattern\BuilderPatternComputer\BuilderPatternComputer\bin\Debug\BuilderPatternComputer.exe.config
+H:\HTL\4AHIT\SEW\BuilderPattern\BuilderPatternComputer\BuilderPatternComputer\bin\Debug\BuilderPatternComputer.exe
+H:\HTL\4AHIT\SEW\BuilderPattern\BuilderPatternComputer\BuilderPatternComputer\bin\Debug\BuilderPatternComputer.pdb
+H:\HTL\4AHIT\SEW\BuilderPattern\BuilderPatternComputer\BuilderPatternComputer\obj\Debug\BuilderPatternComputer.exe
+H:\HTL\4AHIT\SEW\BuilderPattern\BuilderPatternComputer\BuilderPatternComputer\obj\Debug\BuilderPatternComputer.pdb
